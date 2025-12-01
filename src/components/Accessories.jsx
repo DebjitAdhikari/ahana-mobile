@@ -315,7 +315,7 @@ const Accessories = () => {
               ease: "easeInOut"
             }}
           >
-            🔥 All accessories come with 30-day warranty
+            {/* Premium accessories designed to deliver the best experience. ⚡️📱 */}
           </motion.p>
         </motion.div>
       </div>
