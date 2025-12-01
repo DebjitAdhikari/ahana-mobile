@@ -35,14 +35,14 @@ const Accessories = () => {
     {
       name: "Bluetooth Speaker",
       image: "/images/bluetoothspeaker-img.png",
-      description: "Car & desk mounts",
+      description: "High quality bluetooth speaker",
       price: "₹250"
     },
     {
       name: "Charging Adapter",
       image: "/images/chargingadapter-img.png",
-      description: "Car & desk mounts",
-      price: "₹50"
+      description: "All types of mobile charger",
+      price: "₹150"
     },
   ];
 

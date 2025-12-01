@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { MdPhoneIphone, MdWaterDamage } from "react-icons/md";
+import { MdPhoneIphone, MdStorefront, MdWaterDamage } from "react-icons/md";
 import { RiBattery2ChargeLine } from "react-icons/ri";
 import { BsSoundwave } from "react-icons/bs";
 import { FiCamera } from "react-icons/fi";
@@ -55,7 +55,14 @@ const Services = () => {
       title: "Software Issues",
       description: "Software glitches, updates, or virus removal — we handle it all.",
       price: "Starting at ₹150"
-    }
+    },
+    {
+  icon: <MdStorefront />,
+  title: "Wholesale Accessories",
+  description: "Get mobile accessories, chargers, covers, and gadgets at wholesale prices.",
+  price: "Best market rates"
+}
+
   ];
 
   // Animation variants
@@ -221,10 +228,10 @@ const Services = () => {
               <BsShieldCheck className="mx-auto" />
             </motion.div>
             <h4 className="text-xl font-semibold text-gray-800 mb-2">
-              90-Day Warranty
+              No-Fix, No-Fees
             </h4>
             <p className="text-gray-600">
-              Full coverage on all repairs
+              If we can’t repair it, you don’t pay anything
             </p>
           </motion.div>
 

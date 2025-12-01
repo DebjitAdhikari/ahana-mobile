@@ -11,8 +11,7 @@ const FAQ = () => {
     },
     {
       question: "Do you offer warranty on repairs?",
-      answer: "Yes! All our repairs come with a 90-day warranty covering both parts and labor. If you experience any issues related to the repair within this period, we'll fix it free of charge."
-    },
+      answer: "All products come with the original company warranty. We provide warranty only on items that include manufacturer coverage. Please note: we do not offer additional warranty on repair services." },
     {
       question: "Are the replacement parts original?",
       answer: "We use a combination of genuine OEM parts and high-quality aftermarket parts depending on availability and your budget. We always inform you before proceeding with the repair."
@@ -27,7 +26,7 @@ const FAQ = () => {
     },
     {
       question: "What if my phone can't be repaired?",
-      answer: "If a repair isn't possible or cost-effective, we'll be honest about it. We can help you with data recovery and recommend the best options for replacement or upgrade."
+      answer: "We believe in honesty first. If your mobile cannot be repaired or the repair isn’t worth the cost, we’ll tell you upfront — and we never charge for unsuccessful repair attempts. We’ll also guide you with the best alternatives or data recovery options"
     },
     {
       question: "Do I need an appointment?",

@@ -21,9 +21,11 @@ const About = () => {
               Why Choose Us?
             </h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              At A Mobile Point, we’ve been repairing smartphones and guiding customers for over 15 years. Our mission is simple — provide fast, reliable, and affordable mobile services.
-From quick screen replacements to advanced chip-level repairs, our expert technicians ensure your device gets the best care. We also help you choose the right mobiles and accessories based on your needs and budget.
-Your device is in safe hands — experience service you can trust.</p>
+              At A Mobile Point, we’ve been repairing smartphones, selling accessories, and helping customers make the right tech choices for over 15 years. Our mission is simple — to provide fast, reliable, and affordable mobile services.
+
+From quick screen replacements to advanced chip-level repairs, our experienced technicians ensure your device receives the best care. Along with repairs, we offer a wide range of mobile accessories and also provide wholesale supply for shops, resellers, and bulk buyers at competitive prices.
+
+Your device and your trust matter to us — experience service that’s honest, skilled, and dependable.</p>
 
             <div className="space-y-4 mb-8">
 
@@ -53,7 +55,7 @@ Your device is in safe hands — experience service you can trust.</p>
     </div>
     <div>
       <h3 className="font-semibold text-gray-800 text-lg mb-1">Quality Guaranteed</h3>
-      <p className="text-gray-600">90-day warranty on all repairs with genuine parts</p>
+      <p className="text-gray-600">We deliver top-quality repairs using only genuine parts</p>
     </div>
   </div>
 
